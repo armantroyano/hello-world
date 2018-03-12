@@ -1,2 +1,2 @@
 # hello-world
-Hello Word Repository
+Hello World Repository
